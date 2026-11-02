@@ -1,4 +1,7 @@
-It's project to encrypt text in png images and ofc decrypt it using passwd.
-All  instructions are coming  soon,  
-to make it work just download directory and compile main.cpp . 
-All files in stb_image are from https://github.com/nothings/stb except delete.txt
+This project allows you to encrypt text inside PNG images and decrypt it using a password.
+
+More instructions are coming soon!
+
+To get it working, simply download the repository and compile main.cpp. It currently works only on Unix-like operating systems.
+
+All files in the stb_image directory come from stb, except for delete.txt.
